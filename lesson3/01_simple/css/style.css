@@ -26,6 +26,7 @@
 .image_container {
       text-align: center;         
       }
+       /*нужно было вынести общие стили в один класс car и уже добавить еще один класс для первого варианта*/
       .car01 {
          border: black 4px dotted;
         margin-left: 214px;  
